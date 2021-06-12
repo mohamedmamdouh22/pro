@@ -687,12 +687,13 @@ img{
         display: none;
     }
     .container3 .img1{
-        left: 20%;
+        left: 12%;
         top: -20%;
     }
     .container3 >div:nth-child(2){
         width: 95%;
         padding-top: 200px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     }
 }
 /*contact*/
@@ -874,8 +875,21 @@ td i:hover{
           font-size: medium;
           height: 50px;
       }
+      .container4 >div:first-child{
+        width: 30%;
+      }
+      .container4>div:last-child{
+          width: 70%;
+      }
+      thead{
+          font-size: medium;
+      }
       table{
           font-size: medium !important;
+      }
+      td a{
+          font-size: medium;
+    
       }
       .container4 h1{
           font-size: xx-large;
