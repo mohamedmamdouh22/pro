@@ -137,15 +137,16 @@ body{
 }
 @media screen and (max-width:900px) {
     .container{
-        width: 100%;
+        width: 110%;
         height: 750px;
         background-size: cover;
+        
 
     }
     .caption{
         left: 30px;
         top:82px;
-        width: 400px;
+        width: 340px;
     }
 
 }
@@ -861,4 +862,23 @@ td i:hover{
     50% { height: 100%;}
     75% { height: 100%;}
     100% { height: 0%;}
+  }
+  @media screen and (max-width:800px) {
+      .container4{
+          width: 100%;
+         
+          height: 600px;
+      }
+      .btn{
+          width: 120px;
+          font-size: medium;
+          height: 50px;
+      }
+      table{
+          font-size: medium !important;
+      }
+      .container4 h1{
+          font-size: xx-large;
+      }
+   
   }
