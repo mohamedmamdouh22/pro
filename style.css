@@ -908,7 +908,7 @@ td i:hover{
           width: 70%;
       }
       thead{
-          font-size: medium;
+          font-size: larger;
       }
       table{
           font-size: medium !important;
