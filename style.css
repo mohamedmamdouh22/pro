@@ -382,6 +382,13 @@ img{
     .gallary >div{
         margin:20px auto;
         width: 95%;
+
+    }
+    .btn1{
+        left: 50px;
+    }
+    .btn2{
+        left:180px
     }
 
 }
